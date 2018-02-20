@@ -1,0 +1,31 @@
+{
+  "name": "lug.xjtlu.moe",
+  "version": "0.1.0",
+  "description": "Home Page for lug.xjtlu.moe",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xjtlu-lug/lug.xjtlu.moe.git"
+  },
+  "keywords": ["bootstrap", "lug", "webpage"],
+  "author": "DexHunter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xjtlu-lug/lug.xjtlu.moe/issues"
+  },
+  "homepage": "https://github.com/xjtlu-lug/lug.xjtlu.moe#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
