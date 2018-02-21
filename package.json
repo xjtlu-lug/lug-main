@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+ssh://git@github.com/xjtlu-lug/lug.xjtlu.moe.git"
   },
-  "keywords": ["bootstrap", "lug", "webpage"],
+  "keywords": [
+    "bootstrap",
+    "lug",
+    "webpage"
+  ],
   "author": "DexHunter",
   "license": "MIT",
   "bugs": {
@@ -25,6 +29,8 @@
   },
   "devDependencies": {
     "browser-sync": "^2.23.6",
+    "eslint": "^4.18.1",
+    "eslint-config-google": "^0.9.1",
     "gulp": "^3.9.1",
     "gulp-sass": "^3.1.0"
   }
